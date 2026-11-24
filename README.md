@@ -1,5 +1,7 @@
 # VibeHive – Social Blogging Made Easy
 
+![Last commit](https://img.shields.io/github/last-commit/KArT4206/Vibe-hive_SocialBloggingMadeEasy)
+
 VibeHive is a web platform where people **chat in real time and publish blogs**. Visitors create an account, sign in, write and share posts, and talk to everyone else in a shared chat room; an admin page manages a list of restricted words.
 
 > This repository documents the project (description, design, screenshots). The source code lives in a private repository, `Vibe-hive_SocialBloggingMadeEasy-code`.
